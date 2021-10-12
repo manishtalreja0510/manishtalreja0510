@@ -1,5 +1,5 @@
 Hey There
-<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<manishtalreja0510>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishtalreja0510" />
 
 
 
